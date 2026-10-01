@@ -1,1 +1,1 @@
-branch2 version 3
+Resolved: branch1 version 3 + branch2 version 3
