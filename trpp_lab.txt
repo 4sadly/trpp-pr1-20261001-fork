@@ -1,1 +1,1 @@
-New clone version 9
+Resolved histories: old clone v6 + new clone v9
